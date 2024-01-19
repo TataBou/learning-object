@@ -1,4 +1,5 @@
 Create a Moodle Page with the HTML 5 code as the content
+<space>
 Copy the URL (not the iframe embed code) of the H5P I want to embed/time, and I edit the HTML to include this (line #19 of the page code)
 Adjust the width and height of the H5P in the code – again it’s commented – I get these values from the H5P iframe embed code (lines #22 and #23)
 Adjust the timing to my preference (it’s in seconds) – line #9
