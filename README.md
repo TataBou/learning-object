@@ -1,2 +1,2 @@
-# learning-object
+# timed-h5p
 test
